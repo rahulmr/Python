@@ -748,6 +748,7 @@
   * [Linear Congruential Generator](other/linear_congruential_generator.py)
   * [Lru Cache](other/lru_cache.py)
   * [Magicdiamondpattern](other/magicdiamondpattern.py)
+  * [Majority Vote Algorithm](other/majority_vote_algorithm.py)
   * [Maximum Subsequence](other/maximum_subsequence.py)
   * [Nested Brackets](other/nested_brackets.py)
   * [Number Container System](other/number_container_system.py)
